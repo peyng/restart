@@ -179,6 +179,7 @@ E-mail Yuichi_Yoshimura@n.t.rd.honda.co.jp<br>
 ーーーーーーーーーーーーーーーーーーーーーーーーーーーーー<br><br>
 </span></main>
  
+ <img src="https://peyng.github.io/restart/キャプチャ.JPG">
  
       <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p>
  <!--     <section>
