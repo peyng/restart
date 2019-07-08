@@ -14,6 +14,7 @@ font-size: 1.5em;
 <!--
  .red {color:#ff0000;}
  .grey {color:#ffffff; background:#999999;}
+ .snow {color:#fffafa;}
  .yellow {color:#ff0000; background:#ffff00;}
  .blue {color:#0000ff;}
  .white {color:#ffffff; blinking;}
@@ -21,6 +22,11 @@ font-size: 1.5em;
 　　　　　　line-height: 200%;
 　　　　　　padding: 10px;}
  -->
+ 
+ main {
+background-color: rgba(255, 255, 255, 0.3);
+}
+ 
 
 /* 点滅 */
 .blinking{
@@ -135,8 +141,9 @@ body::before {
       <p>前田：入社直後に転職 → ワコール</p><br>
  </font> </h3>
  <br><br>
- <p>
-お誘いメール<br>
+<main>
+	<span class="white"><h3>・・・開催通知・・・</h3><br></span>
+	<span class="snow">
 From: Yuichi Yoshimura (吉村 祐一) <br>
 Sent: Monday, June 17, 2019 12:18 PM<br>
 To: Satoshi Takizawa (滝澤 敏) <satoshi_takizawa@n.t.rd.honda.co.jp>; Hirohiko Takaku (高久 裕彦) <hirohiko_takaku@n.t.rd.honda.co.jp>; Kanji Kita (北 貫二) <kanji_kita@n.t.rd.honda.co.jp>; Fumio Tozaki (戸崎 文雄) <fumio_tozaki@n.t.rd.honda.co.jp>; Minoru Higuchi (樋口 実) <minoru_higuchi@n.t.rd.honda.co.jp>; KOJI HIGUCHI (樋口 浩二) <koji_higuchi@hm.honda.co.jp>; Masahiro Sato (佐藤 雅弘) <masahiro_sato@n.t.rd.honda.co.jp>; Yuta Urushiyama (漆山 雄太) <yuta_urushiyama@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Yoshikazu_Matsumura@honda-tft.co.jp<br>
@@ -171,7 +178,7 @@ TEL (028)677-3311　内線8764406<br>
 携帯 080-4105-3838<br>
 E-mail Yuichi_Yoshimura@n.t.rd.honda.co.jp<br>
 ーーーーーーーーーーーーーーーーーーーーーーーーーーーーー<br><br>
-
+</span></main>
  
  
       <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p>
