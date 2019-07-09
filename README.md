@@ -133,16 +133,17 @@ body::before {
       <span class="blue"><strong><marquee behavior="alternate"> <a href="https://torokoid.github.io/mahoroba/181.JPG">毎年集まれることに感謝(^^)/ ← クリック！</a></marquee></strong></span></h2>
 -->
       <p>&#160;</p> <p>&#160;</p>
-  <h3> <font color="blue">   
+  <h3>
       <p>退職者リスト</p><br>
       <p>半澤幸彦：60歳、定年退職</p><br>
       <p>渡辺正樹：60歳、定年退職</p><br>
       <p>佐々木正美：50代で転職</p><br>
       <p>前田：入社直後に転職 → ワコール</p><br>
- </font> </h3>
+  </h3>
  <br><br>
 <main>
 	<span class="white"><h3>・・・開催通知・・・</h3><br>
+	 <font color="blue">	
 From: Yuichi Yoshimura (吉村 祐一) <br>
 Sent: Monday, June 17, 2019 12:18 PM<br>
 To: Satoshi Takizawa (滝澤 敏) <satoshi_takizawa@n.t.rd.honda.co.jp>; Hirohiko Takaku (高久 裕彦) <hirohiko_takaku@n.t.rd.honda.co.jp>; Kanji Kita (北 貫二) <kanji_kita@n.t.rd.honda.co.jp>; Fumio Tozaki (戸崎 文雄) <fumio_tozaki@n.t.rd.honda.co.jp>; Minoru Higuchi (樋口 実) <minoru_higuchi@n.t.rd.honda.co.jp>; KOJI HIGUCHI (樋口 浩二) <koji_higuchi@hm.honda.co.jp>; Masahiro Sato (佐藤 雅弘) <masahiro_sato@n.t.rd.honda.co.jp>; Yuta Urushiyama (漆山 雄太) <yuta_urushiyama@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Yoshikazu_Matsumura@honda-tft.co.jp<br>
@@ -177,6 +178,7 @@ TEL (028)677-3311　内線8764406<br>
 携帯 080-4105-3838<br>
 E-mail Yuichi_Yoshimura@n.t.rd.honda.co.jp<br>
 ーーーーーーーーーーーーーーーーーーーーーーーーーーーーー<br><br>
+</font>
 </span></main>
  
  <img src="https://peyng.github.io/restart/キャプチャ.JPG">
