@@ -179,7 +179,7 @@ TEL (028)677-3311　内線8764406<br>
 E-mail Yuichi_Yoshimura@n.t.rd.honda.co.jp<br>
 ーーーーーーーーーーーーーーーーーーーーーーーーーーーーー<br><br>
 </font>
-</span></main>
+</main>
  
  <img src="https://peyng.github.io/restart/キャプチャ.JPG">
  
