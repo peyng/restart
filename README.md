@@ -142,7 +142,7 @@ body::before {
   </h3>
  <br><br>
 <main>
-	<span class="white"><h3>・・・開催通知・・・</h3><br>
+	<font color="red"><h3>・・・開催通知・・・</h3></font>
 	 <font color="blue">	
 From: Yuichi Yoshimura (吉村 祐一) <br>
 Sent: Monday, June 17, 2019 12:18 PM<br>
