@@ -29,31 +29,21 @@ background-color: rgba(255, 255, 255, 0.3);
  
 
 /* 点滅 */
-blink {
-    -webkit-animation: 2s linear infinite condemned_blink_effect; // for android
-    animation: 2s linear infinite condemned_blink_effect;
+/* Blink for Webkit and others
+(Chrome, Safari, Firefox, IE, ...)
+*/
+
+@-webkit-keyframes blinker {
+  from {opacity: 1.0;}
+  to {opacity: 0.0;}
 }
-@-webkit-keyframes condemned_blink_effect { // for android
-    0% {
-        visibility: hidden;
-    }
-    50% {
-        visibility: hidden;
-    }
-    100% {
-        visibility: visible;
-    }
-}
-@keyframes condemned_blink_effect {
-    0% {
-        visibility: hidden;
-    }
-    50% {
-        visibility: hidden;
-    }
-    100% {
-        visibility: visible;
-    }
+.blink{
+	text-decoration: blink;
+	-webkit-animation-name: blinker;
+	-webkit-animation-duration: 0.6s;
+	-webkit-animation-iteration-count:infinite;
+	-webkit-animation-timing-function:ease-in-out;
+	-webkit-animation-direction: alternate;
 }
 
 
