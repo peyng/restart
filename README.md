@@ -129,7 +129,7 @@ body::before {
       <p>&#160;</p> <p>&#160;</p>
   <h3>
       <p>退職者リスト</p><br>
-<span class="blink"><font color="red">
+<span class="Keyframes blink"><font color="red">
 	<h2>半澤幸彦：60歳、2019年、定年退職</h2></font></span><br>
       <p>渡辺正樹：60歳、2018年、定年退職</p><br>
       <p>佐々木正美：2012年、53歳で転職 → テイ・エス テック？</p><br>
