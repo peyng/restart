@@ -29,34 +29,33 @@ background-color: rgba(255, 255, 255, 0.3);
  
 
 /* 点滅 */
-@keyframes blink {
-  75% { opacity: 0.0; }
+blink {
+    -webkit-animation: 2s linear infinite condemned_blink_effect; // for android
+    animation: 2s linear infinite condemned_blink_effect;
 }
-@-webkit-keyframes blink {
-  75% { opacity: 0.0; }
+@-webkit-keyframes condemned_blink_effect { // for android
+    0% {
+        visibility: hidden;
+    }
+    50% {
+        visibility: hidden;
+    }
+    100% {
+        visibility: visible;
+    }
 }
-#some-element {
-  animation: blink 1s step-end infinite;
-  -webkit-animation: blink 1s step-end infinite;
+@keyframes condemned_blink_effect {
+    0% {
+        visibility: hidden;
+    }
+    50% {
+        visibility: hidden;
+    }
+    100% {
+        visibility: visible;
+    }
 }
-    
 
- body { background-color: #ccffff; }
- a.p:hover {
-    position: relative;
-     text-decoration: none;
- }
- a.p span {
-     display: none;
-     position: absolute;
-     top: 1em;
-     left: 0;
- }
- a.p:hover span {
-     border: none;
-     display: block;
-     width: 700px;
-}
 
 #wrap {background:none} /*PC用の背景はオフ*/
 body::before {
@@ -129,7 +128,7 @@ body::before {
       <p>&#160;</p> <p>&#160;</p>
   <h3>
       <p>退職者リスト</p><br>
-<span class="Keyframes blink"><font color="red">
+<span class="blink"><font color="red">
 	<h2>半澤幸彦：60歳、2019年、定年退職</h2></font></span><br>
       <p>渡辺正樹：60歳、2018年、定年退職</p><br>
       <p>佐々木正美：2012年、53歳で転職 → テイ・エス テック？</p><br>
