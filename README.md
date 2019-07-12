@@ -135,8 +135,8 @@ body::before {
       <p>&#160;</p> <p>&#160;</p>
   <h3>
       <p>退職者リスト</p><br>
-<span class="blinking">
-	<p>半澤幸彦：60歳、2019年、定年退職</p><br></span>
+<span class="blinking"><font color="red">
+	<p>半澤幸彦：60歳、2019年、定年退職</p><br></font></span>
       <p>渡辺正樹：60歳、2018年、定年退職</p><br>
       <p>佐々木正美：2012年、53歳で転職 → テイ・エス テック？</p><br>
       <p>紺野（空調）：20代で転職</p><br>
