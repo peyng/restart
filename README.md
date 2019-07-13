@@ -26,6 +26,10 @@ font-size: 1.5em;
  main {
 background-color: rgba(255, 255, 255, 0.3);
 }
+
+section {
+background-color: rgba(0, 225, 0, 0.6);
+}
  
 
 /* 点滅 */
