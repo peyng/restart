@@ -188,7 +188,7 @@ E-mail Yuichi_Yoshimura@n.t.rd.honda.co.jp<br>
  <main>
  <h2>簡易会計計算</h2>
 <h2>
- <a href="https://torokoid.github.io/seisan-2/" target="_blank">簡易会計計算、多人数対応バージョンアップ版！</a>
+ <a href="https://peyng.github.io/seisan-2/" target="_blank">簡易会計計算、多人数対応バージョンアップ版！</a>
   </h2>  </main>
        <p>&#160;</p>
 <section><span class="blue">
