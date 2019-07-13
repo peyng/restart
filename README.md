@@ -185,11 +185,11 @@ E-mail Yuichi_Yoshimura@n.t.rd.honda.co.jp<br>
  <iframe src="https://www.jma.go.jp/jp/highresorad/" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
        </section>-->
    <p>&#160;</p>
- <section>
+ <main>
  <h2>簡易会計計算</h2>
 <h2>
  <a href="https://torokoid.github.io/seisan-2/" target="_blank">簡易会計計算、多人数対応バージョンアップ版！</a>
-  </h2>  </section>
+  </h2>  </main>
        <p>&#160;</p>
 <section><span class="blue">
 <!-- begin wwww.htmlcommentbox.com -->
