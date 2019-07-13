@@ -29,21 +29,15 @@ background-color: rgba(255, 255, 255, 0.3);
  
 
 /* 点滅 */
-/* Blink for Webkit and others
-(Chrome, Safari, Firefox, IE, ...)
-*/
-
-@-webkit-keyframes blinker {
-  from {opacity: 1.0;}
-  to {opacity: 0.0;}
+@keyframes blink {
+  75% { opacity: 0.0; }
 }
-.blink{
-	text-decoration: blink;
-	-webkit-animation-name: blinker;
-	-webkit-animation-duration: 0.6s;
-	-webkit-animation-iteration-count:infinite;
-	-webkit-animation-timing-function:ease-in-out;
-	-webkit-animation-direction: alternate;
+@-webkit-keyframes blink {
+  75% { opacity: 0.0; }
+}
+#some-element {
+  animation: blink 1s step-end infinite;
+  -webkit-animation: blink 1s step-end infinite;
 }
 
 #wrap {background:none} /*PC用の背景はオフ*/
