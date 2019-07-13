@@ -30,7 +30,7 @@ background-color: rgba(255, 255, 255, 0.3);
 
 /* 点滅 */
   <title>CSS Blink for Webkit and others</title>
-	<link rel="stylesheet" href="blink.css" />
+	<link rel="stylesheet" href="https://github.com/peyng/restart/blob/master/blink.css" />
 
 
 #wrap {background:none} /*PC用の背景はオフ*/
