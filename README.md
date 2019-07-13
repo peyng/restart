@@ -29,12 +29,22 @@ background-color: rgba(255, 255, 255, 0.3);
  
 
 /* 点滅 */
-@keyframes blink {
-  75% { opacity: 0.0; }
+.blinking{
+	-webkit-animation:blink 1.5s ease-in-out infinite alternate;
+    -moz-animation:blink 1.5s ease-in-out infinite alternate;
+    animation:blink 1.5s ease-in-out infinite alternate;
 }
-#some-element {
-  /* text-decoration: blink; の代わりに以下の指定を入れる */
-  animation: blink 1s step-end infinite;
+@-webkit-keyframes blink{
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+@-moz-keyframes blink{
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+@keyframes blink{
+    0% {opacity:0;}
+    100% {opacity:1;}
 }
 
 #wrap {background:none} /*PC用の背景はオフ*/
@@ -117,8 +127,8 @@ $(function() {
       <p>&#160;</p> <p>&#160;</p>
   <h3>
       <p>退職者リスト</p><br>
-<blink><font color="red">
-	<h2>半澤幸彦：60歳、2019年、定年退職</h2></font></blink><br>
+<span class="blinking"><font color="red">
+	<h2>半澤幸彦：60歳、2019年、定年退職</h2></font></span><br>
       <p>渡辺正樹：60歳、2018年、定年退職</p><br>
       <p>佐々木正美：2012年、53歳で転職 → テイ・エス テック？</p><br>
       <p>紺野（空調）：20代で転職</p><br>
