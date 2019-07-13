@@ -32,12 +32,9 @@ background-color: rgba(255, 255, 255, 0.3);
 @keyframes blink {
   75% { opacity: 0.0; }
 }
-@-webkit-keyframes blink {
-  75% { opacity: 0.0; }
-}
 #some-element {
+  /* text-decoration: blink; の代わりに以下の指定を入れる */
   animation: blink 1s step-end infinite;
-  -webkit-animation: blink 1s step-end infinite;
 }
 
 #wrap {background:none} /*PC用の背景はオフ*/
