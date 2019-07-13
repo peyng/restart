@@ -68,15 +68,6 @@ body::before {
 
 </style>
 
-<script src="../lib/jquery-1.10.2.min.js"></script>
-<script>
-$(function() {
-    setInterval(function() {
-        $('.blink').css('visibility', $('.blink').css('visibility') == 'hidden' ? 'visible' : 'hidden');
-    }, 800);
-});
-</script>
-
 </head>
 
 
