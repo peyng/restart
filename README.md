@@ -58,6 +58,15 @@ body::before {
 
 </style>
 
+<script src="../lib/jquery-1.10.2.min.js"></script>
+<script>
+$(function() {
+    setInterval(function() {
+        $('.blink').css('visibility', $('.blink').css('visibility') == 'hidden' ? 'visible' : 'hidden');
+    }, 800);
+});
+</script>
+
 </head>
 
 
@@ -108,8 +117,8 @@ body::before {
       <p>&#160;</p> <p>&#160;</p>
   <h3>
       <p>退職者リスト</p><br>
-<span class="blink"><font color="red">
-	<h2>半澤幸彦：60歳、2019年、定年退職</h2></font></span><br>
+<div class="blink"><font color="red">
+	<h2>半澤幸彦：60歳、2019年、定年退職</h2></font></div><br>
       <p>渡辺正樹：60歳、2018年、定年退職</p><br>
       <p>佐々木正美：2012年、53歳で転職 → テイ・エス テック？</p><br>
       <p>紺野（空調）：20代で転職</p><br>
