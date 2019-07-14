@@ -61,7 +61,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/mahoroba/96.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://peyng.github.io/restart/20110114_001.jpg) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -127,7 +127,7 @@ body::before {
 <p><span class="blinking"><font color="red">
 	半澤幸彦：60歳、2019年、定年退職</font></span></p><br>
       <p>渡辺正樹：60歳、2018年、定年退職</p><br>
-      <p>佐々木正美：2012年、53歳で転職 → テイ・エス テック？</p><br>
+      <p>佐々木正美：2011年、51歳で転職 → テイ・エス テック？</p><br>
       <p>高村（強度・耐久）：40代で転職</p><br>
       <p>紺野（空調）：20代で転職</p><br>
       <p>森（動力性能）：20代で転職</p><br>
@@ -208,7 +208,7 @@ E-mail Yuichi_Yoshimura@n.t.rd.honda.co.jp<br>
 <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
        <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
       
-<p align="right"><marquee direction="left" scrollamount="10" width="80%">まほろばの里、ロッジ全景、2016/08/12 06:32撮影 ~~~ (^^)/</marquee></p>
+<p align="right"><marquee direction="left" scrollamount="10" width="80%">佐々木正美、送別会、2011/01/14撮影 ~~~ (^^)/</marquee></p>
 
 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
