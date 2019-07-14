@@ -215,9 +215,9 @@ E-mail Yuichi_Yoshimura@n.t.rd.honda.co.jp<br>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
 
 
-<script type='text/javascript' src='https://torokoid.github.io/shiba/jquery.js?ver=1.12.4'></script>
-<script src="https://torokoid.github.io/shiba/jquery.goup.min.js"></script>
-<script src="https://torokoid.github.io/shiba/my.js"></script> 
+<script type='text/javascript' src='https://peyng.github.io/restart/jquery.js?ver=1.12.4'></script>
+<script src="https://peyng.github.io/restart/jquery.goup.min.js"></script>
+<script src="https://peyng.github.io/restart/my.js"></script> 
 
 <!-- フッタ -->
  <footer>
