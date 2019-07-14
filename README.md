@@ -208,9 +208,9 @@ E-mail Yuichi_Yoshimura@n.t.rd.honda.co.jp<br>
       
 <p align="right"><marquee direction="left" scrollamount="10" width="80%">まほろばの里、ロッジ全景、2016/08/12 06:32撮影 ~~~ (^^)/</marquee></p>
 
-<script type='text/javascript' src='https://peyng.github.io/restart/jquery.js?ver=1.12.4'></script>
-<script src="https://peyng.github.io/restart/jquery.goup.min.js"></script>
-<script src="https://peyng.github.io/restart/my.js"></script> 
+<script type='text/javascript' src='https://torokoid.github.io/shiba/jquery.js?ver=1.12.4'></script>
+<script src="https://torokoid.github.io/shiba/jquery.goup.min.js"></script>
+<script src="https://torokoid.github.io/shiba/my.js"></script> 
 
 <!-- フッタ -->
  <footer>
