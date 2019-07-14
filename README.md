@@ -64,6 +64,23 @@ body::before {
   background:url(https://peyng.github.io/restart/20110114_001.jpg) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
+  
+a.p:hover {
+    position: relative;
+    text-decoration: none;
+}
+a.p span {
+    display: none;
+    position: relative;
+    top: -0.5em;
+    left: 2em;
+}
+a.p:hover span {
+    border: none;
+    display: block;
+    width: 210px;
+}   
+ 
 
 @media	screen and (min-width: 540px),
 	screen and (orientation: landscape) {
