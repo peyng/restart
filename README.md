@@ -127,7 +127,7 @@ body::before {
 <p><span class="blinking"><font color="red">
 	半澤幸彦：60歳、2019年、定年退職</font></span></p><br>
       <p>渡辺正樹：60歳、2018年、定年退職</p><br>
-      <p>佐々木正美：2011年、51歳で転職 → テイ・エス テック？</p><br>
+      <p>佐々木正美：2011年、51歳で転職 → テイ・エス テック？<span><img src="https://peyng.github.io/restart/20110114_001.jpg" alt="佐々木 送別会"></span></p><br>
       <p>高村（強度・耐久）：40代で転職</p><br>
       <p>紺野（空調）：20代で転職</p><br>
       <p>森（動力性能）：20代で転職</p><br>
