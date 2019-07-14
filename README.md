@@ -238,5 +238,5 @@ E-mail Yuichi_Yoshimura@n.t.rd.honda.co.jp<br>
 
 <!-- フッタ -->
  <footer>
-	<span class="snow">Copyright 2019/07/08 S.Hada</span>
+	<span class="white">Copyright 2019/07/08 S.Hada</span>
  </footer>
