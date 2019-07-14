@@ -72,6 +72,8 @@ body::before {
 
 </style>
 
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
+
 </head>
 
 
