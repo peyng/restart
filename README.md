@@ -28,7 +28,7 @@ background-color: rgba(255, 255, 255, 0.3);
 }
 
 section {
-background-color: rgba(0, 225, 0, 0.6);
+background-color: rgba(0, 225, 0, 0.3);
 }
  
 
