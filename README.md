@@ -151,7 +151,7 @@ a.p:hover span {
       <p>前田：配属直後に転職 → ワコール</p><br>
 
  <br><br>
-<main>
+<section>
 	<font color="red"><h3>・・・開催通知・・・</h3></font>
 	 <font color="blue">	
 From: Yuichi Yoshimura (吉村 祐一) <br>
@@ -189,7 +189,7 @@ TEL (028)677-3311　内線8764406<br>
 E-mail Yuichi_Yoshimura@n.t.rd.honda.co.jp<br>
 ーーーーーーーーーーーーーーーーーーーーーーーーーーーーー<br><br>
 </font>
-</main>
+</section>
  
  <img src="https://peyng.github.io/restart/キャプチャ.JPG">
  
