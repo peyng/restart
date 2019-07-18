@@ -153,7 +153,7 @@ a.p:hover span {
  <br><br>
 <section>
 	<font color="red"><h3>・・・開催通知・・・</h3></font>
-	 <font color="blue">	
+	 <font color="white">	
 From: Yuichi Yoshimura (吉村 祐一) <br>
 Sent: Monday, June 17, 2019 12:18 PM<br>
 To: Satoshi Takizawa (滝澤 敏) <satoshi_takizawa@n.t.rd.honda.co.jp>; Hirohiko Takaku (高久 裕彦) <hirohiko_takaku@n.t.rd.honda.co.jp>; Kanji Kita (北 貫二) <kanji_kita@n.t.rd.honda.co.jp>; Fumio Tozaki (戸崎 文雄) <fumio_tozaki@n.t.rd.honda.co.jp>; Minoru Higuchi (樋口 実) <minoru_higuchi@n.t.rd.honda.co.jp>; KOJI HIGUCHI (樋口 浩二) <koji_higuchi@hm.honda.co.jp>; Masahiro Sato (佐藤 雅弘) <masahiro_sato@n.t.rd.honda.co.jp>; Yuta Urushiyama (漆山 雄太) <yuta_urushiyama@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Yoshikazu_Matsumura@honda-tft.co.jp<br>
