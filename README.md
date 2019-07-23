@@ -61,7 +61,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://peyng.github.io/restart/20110114_001.jpg) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://peyng.github.io/restart/20061222_001.jpg) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
   
@@ -145,7 +145,7 @@ a.p:hover span {
 	半澤幸彦：60歳、2019年、定年退職</font></span></p><br>
       <p>渡辺正樹：60歳、2018年、定年退職</p><br>
       <p><a href="https://peyng.github.io/restart/20110114_001.jpg" target="_blank" class="p">佐々木正美：2011年、51歳で転職 → テイ・エス テック？<span><img src="https://peyng.github.io/restart/20110114_001.jpg" alt="佐々木 送別会"></span></a><br><br>
-      <p>高村（強度・耐久）：40代で転職</p><br>
+      <p><a href="https://peyng.github.io/restart/20061222_001.jpg" target="_blank" class="p">高村（強度・耐久）<span><img src="https://peyng.github.io/restart/20061222_001.jpg" alt="佐々木 送別会"></span></a><a href="https://peyng.github.io/restart/20061222_002.jpg" target="_blank" class="p">：40代で転職<span><img src="https://peyng.github.io/restart/20061222_002.jpg" alt="佐々木 送別会"></span></a></p><br>
       <p>紺野（空調）：20代で転職</p><br>
       <p>森（動力性能）：20代で転職</p><br>
       <p>前田：配属直後に転職 → ワコール</p><br>
