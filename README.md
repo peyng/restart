@@ -224,8 +224,10 @@ E-mail Yuichi_Yoshimura@n.t.rd.honda.co.jp<br>
 
 <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
        <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
-      
-<p align="right"><marquee direction="left" scrollamount="10" width="80%">背景は佐々木正美 送別会@なかはら、2011/01/14撮影 ~~~ (^^)/</marquee></p>
+
+<p align="right"><marquee direction="left" scrollamount="10" width="80%">背景は高村 送別会、2006/12/22撮影 ~~~ (^^)/</marquee></p>
+<!--      
+<p align="right"><marquee direction="left" scrollamount="10" width="80%">背景は佐々木正美 送別会@なかはら、2011/01/14撮影 ~~~ (^^)/</marquee></p>-->
 
 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
