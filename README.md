@@ -24,7 +24,7 @@ font-size: 1.5em;
  -->
  
  main {
-background-color: rgba(255, 255, 255, 0.3);
+background-color: rgba(255, 255, 255, 0.5);
 }
 
 section {
@@ -211,13 +211,13 @@ E-mail Yuichi_Yoshimura@n.t.rd.honda.co.jp<br>
  <a href="https://peyng.github.io/seisan-2/" target="_blank">簡易会計計算、多人数対応バージョンアップ版！</a>
   </h2>  </main>
        <p>&#160;</p>
-<section><span class="blue">
+<main><span class="blue">
 <!-- begin wwww.htmlcommentbox.com -->
  <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">HTML Comment Box</a> is loading comments...</div>
  <link rel="stylesheet" type="text/css" href="//www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
  <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="//www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&opts=16862&num=10&ts=1549107119172");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
 <!-- end www.htmlcommentbox.com -->
-</span></section>
+</span></main>
        
        
 <p>&#160;</p><p>&#160;</p>
