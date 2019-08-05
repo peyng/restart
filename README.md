@@ -147,7 +147,7 @@ a.p:hover span {
       <p><a href="https://peyng.github.io/restart/20110114_001.jpg" target="_blank" class="p">佐々木正美：2011年、51歳で転職 → テイ・エス テック？<span><img src="https://peyng.github.io/restart/20110114_001.jpg" alt="佐々木 送別会"></span></a><br><br>
       <p><a href="https://peyng.github.io/restart/20061222_001.JPG" target="_blank" class="p">高村（強度・耐久）<span><img src="https://peyng.github.io/restart/20061222_001.JPG" alt="佐々木 送別会"></span></a><a href="https://peyng.github.io/restart/20061222_002.JPG" target="_blank" class="p">：40代で転職<span><img src="https://peyng.github.io/restart/20061222_002.JPG" alt="佐々木 送別会"></span></a></p><br>
       <p>紺野（空調）：20代で転職</p><br>
-      <p>森（動力性能）：20代で転職</p><br>
+      <p>森 昭（動力性能）：20代で転職</p><br>
       <p>前田：配属直後に転職 → ワコール</p><br>
 
  <br><br>
