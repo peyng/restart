@@ -100,7 +100,7 @@ a.p:hover span {
   より見やすくご覧頂けます。
 </p>
 	
-<h1><span class="yellow"><marquee behavior="left">!!! 2019年8月30日_半澤幸彦、退職記念の記録 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2019年8月30日_半澤幸彦、退職記念@うず潮 !!!</marquee></span></h1>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <a href="20190830_002.jpg" data-lightbox="abc"><img src="20190830_002.jpg" alt="サンプル画像" width="800" /></a>
