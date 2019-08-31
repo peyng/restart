@@ -101,25 +101,26 @@ a.p:hover span {
 </p>
 	
 <h1><span class="yellow"><marquee behavior="left">!!! 2019年8月30日_半澤幸彦、退職記念の記録 !!!</marquee></span></h1>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<a href="20190830_001.jpg" data-lightbox="abc"><img src="20190830_001.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20190830_002.jpg" data-lightbox="abc"><img src="20190830_002.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20190830_003.jpg" data-lightbox="abc"><img src="20190830_003.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20190830_004.jpg" data-lightbox="abc"><img src="20190830_004.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20190830_005.jpg" data-lightbox="abc"><img src="20190830_005.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20190830_006.jpg" data-lightbox="abc"><img src="20190830_006.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20190830_007.jpg" data-lightbox="abc"><img src="20190830_007.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20190830_008.jpg" data-lightbox="abc"><img src="20190830_008.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20190830_009.jpg" data-lightbox="abc"><img src="20190830_009.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20190830_010.jpg" data-lightbox="abc"><img src="20190830_010.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20190830_011.jpg" data-lightbox="abc"><img src="20190830_011.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20190830_012.jpg" data-lightbox="abc"><img src="20190830_012.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20190830_013.jpg" data-lightbox="abc"><img src="20190830_013.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20190830_014.jpg" data-lightbox="abc"><img src="20190830_014.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20190830_015.jpg" data-lightbox="abc"><img src="20190830_015.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20190830_016.jpg" data-lightbox="abc"><img src="20190830_016.jpg" alt="サンプル画像" width="200" /></a>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<a href="20190830_001.jpg" data-lightbox="abc"><img src="20190830_001.jpg" alt="サンプル画像" width="800" /></a>
+<a href="20190830_002.jpg" data-lightbox="abc"><img src="20190830_002.jpg" alt="サンプル画像" width="800" /></a>
+<a href="20190830_003.jpg" data-lightbox="abc"><img src="20190830_003.jpg" alt="サンプル画像" width="800" /></a>
+<a href="20190830_004.jpg" data-lightbox="abc"><img src="20190830_004.jpg" alt="サンプル画像" width="800" /></a>
+<a href="20190830_005.jpg" data-lightbox="abc"><img src="20190830_005.jpg" alt="サンプル画像" width="800" /></a>
+<a href="20190830_011.jpg" data-lightbox="abc"><img src="20190830_011.jpg" alt="サンプル画像" width="800" /></a>
+<a href="20190830_012.jpg" data-lightbox="abc"><img src="20190830_012.jpg" alt="サンプル画像" width="800" /></a>
+<a href="20190830_013.jpg" data-lightbox="abc"><img src="20190830_013.jpg" alt="サンプル画像" width="800" /></a>
+<a href="20190830_014.jpg" data-lightbox="abc"><img src="20190830_014.jpg" alt="サンプル画像" width="800" /></a>
+<a href="20190830_015.jpg" data-lightbox="abc"><img src="20190830_015.jpg" alt="サンプル画像" width="800" /></a>
+<p>動画</p>
+<a href="20190830_016.jpg" data-lightbox="abc"><img src="20190830_016.jpg" alt="サンプル画像" width="800" /></a>
+<a href="20190830_006.jpg" data-lightbox="abc"><img src="20190830_006.jpg" alt="サンプル画像" width="800" /></a>
+<a href="20190830_007.jpg" data-lightbox="abc"><img src="20190830_007.jpg" alt="サンプル画像" width="800" /></a>
+<a href="20190830_008.jpg" data-lightbox="abc"><img src="20190830_008.jpg" alt="サンプル画像" width="800" /></a>
+<a href="20190830_009.jpg" data-lightbox="abc"><img src="20190830_009.jpg" alt="サンプル画像" width="800" /></a>
+<a href="20190830_010.jpg" data-lightbox="abc"><img src="20190830_010.jpg" alt="サンプル画像" width="800" /></a>
 	
-	
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h1><span class="yellow"><marquee behavior="left">!!! 1983年_HGT_7K配属者、定年退職祝いの記録 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
