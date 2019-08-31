@@ -61,7 +61,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://peyng.github.io/restart/20061222_001.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://peyng.github.io/restart/20190830_001.jpg) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
   
@@ -99,6 +99,27 @@ a.p:hover span {
   モバイル端末をお使いの場合は、画面を横向きにすると
   より見やすくご覧頂けます。
 </p>
+	
+<h1><span class="yellow"><marquee behavior="left">!!! 2019年8月30日_半澤幸彦、退職記念の記録 !!!</marquee></span></h1>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<a href="20190830_001.jpg" data-lightbox="abc"><img src="20190830_001.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20190830_002.jpg" data-lightbox="abc"><img src="20190830_002.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20190830_003.jpg" data-lightbox="abc"><img src="20190830_003.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20190830_004.jpg" data-lightbox="abc"><img src="20190830_004.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20190830_005.jpg" data-lightbox="abc"><img src="20190830_005.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20190830_006.jpg" data-lightbox="abc"><img src="20190830_006.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20190830_007.jpg" data-lightbox="abc"><img src="20190830_007.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20190830_008.jpg" data-lightbox="abc"><img src="20190830_008.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20190830_009.jpg" data-lightbox="abc"><img src="20190830_009.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20190830_010.jpg" data-lightbox="abc"><img src="20190830_010.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20190830_011.jpg" data-lightbox="abc"><img src="20190830_011.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20190830_012.jpg" data-lightbox="abc"><img src="20190830_012.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20190830_013.jpg" data-lightbox="abc"><img src="20190830_013.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20190830_014.jpg" data-lightbox="abc"><img src="20190830_014.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20190830_015.jpg" data-lightbox="abc"><img src="20190830_015.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20190830_016.jpg" data-lightbox="abc"><img src="20190830_016.jpg" alt="サンプル画像" width="200" /></a>
+	
+	
 
 <h1><span class="yellow"><marquee behavior="left">!!! 1983年_HGT_7K配属者、定年退職祝いの記録 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
