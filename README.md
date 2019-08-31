@@ -112,15 +112,15 @@ a.p:hover span {
 <a href="20190830_013.jpg" data-lightbox="abc"><img src="20190830_013.jpg" alt="サンプル画像" width="800" /></a>
 <a href="20190830_014.jpg" data-lightbox="abc"><img src="20190830_014.jpg" alt="サンプル画像" width="800" /></a>
 <a href="20190830_015.jpg" data-lightbox="abc"><img src="20190830_015.jpg" alt="サンプル画像" width="800" /></a>
-<font color="blue"><h3>動画</h3></font>
+<font color="blue"><h3>動画/Youtube Link</h3></font>
 <a href="https://youtu.be/BckX9Er7g6Q" target="_blank"><img src="20190830_016.jpg" alt="Youtube" width="450" /></a><br/>
-<a href="20190830_016.jpg" data-lightbox="abc"><img src="20190830_016.jpg" alt="サンプル画像" width="800" /></a>
+
 <font color="blue"><h3>料理</h3></font>
 <a href="20190830_007.jpg" data-lightbox="abc"><img src="20190830_007.jpg" alt="サンプル画像" width="300" /></a>
 <a href="20190830_008.jpg" data-lightbox="abc"><img src="20190830_008.jpg" alt="サンプル画像" width="300" /></a>
 <a href="20190830_009.jpg" data-lightbox="abc"><img src="20190830_009.jpg" alt="サンプル画像" width="300" /></a>
 <a href="20190830_010.jpg" data-lightbox="abc"><img src="20190830_010.jpg" alt="サンプル画像" width="300" /></a>
-<a href="20190830_006.jpg" data-lightbox="abc"><img src="20190830_006.jpg" alt="サンプル画像" width="300" /></a>
+<a href="20190830_006.jpg" data-lightbox="abc"><img src="20190830_006.jpg" alt="サンプル画像" width="600" /></a>
 
  <br><br>
 <section>
