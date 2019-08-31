@@ -103,17 +103,17 @@ a.p:hover span {
 <h1><span class="yellow"><marquee behavior="left">!!! 2019年8月30日_半澤幸彦、退職記念@うず潮 !!!</marquee></span></h1>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<a href="20190830_002.jpg" data-lightbox="abc"><img src="20190830_002.jpg" alt="サンプル画像" width="800" /></a>
-<a href="20190830_003.jpg" data-lightbox="abc"><img src="20190830_003.jpg" alt="サンプル画像" width="800" /></a>
-<a href="20190830_004.jpg" data-lightbox="abc"><img src="20190830_004.jpg" alt="サンプル画像" width="800" /></a>
-<a href="20190830_005.jpg" data-lightbox="abc"><img src="20190830_005.jpg" alt="サンプル画像" width="800" /></a>
-<a href="20190830_011.jpg" data-lightbox="abc"><img src="20190830_011.jpg" alt="サンプル画像" width="800" /></a>
-<a href="20190830_012.jpg" data-lightbox="abc"><img src="20190830_012.jpg" alt="サンプル画像" width="800" /></a>
-<a href="20190830_013.jpg" data-lightbox="abc"><img src="20190830_013.jpg" alt="サンプル画像" width="800" /></a>
-<a href="20190830_014.jpg" data-lightbox="abc"><img src="20190830_014.jpg" alt="サンプル画像" width="800" /></a>
-<a href="20190830_015.jpg" data-lightbox="abc"><img src="20190830_015.jpg" alt="サンプル画像" width="800" /></a>
+<a href="20190830_002.jpg" data-lightbox="abc"><img src="20190830_002.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190830_003.jpg" data-lightbox="abc"><img src="20190830_003.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190830_004.jpg" data-lightbox="abc"><img src="20190830_004.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190830_005.jpg" data-lightbox="abc"><img src="20190830_005.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190830_011.jpg" data-lightbox="abc"><img src="20190830_011.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190830_012.jpg" data-lightbox="abc"><img src="20190830_012.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190830_013.jpg" data-lightbox="abc"><img src="20190830_013.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190830_014.jpg" data-lightbox="abc"><img src="20190830_014.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190830_015.jpg" data-lightbox="abc"><img src="20190830_015.jpg" alt="サンプル画像" width="900" /></a>
 <font color="blue"><h3>動画, youtube リンク↓</h3></font>
-<a href="https://youtu.be/BckX9Er7g6Q" target="_blank"><img src="20190830_016.jpg" alt="Youtube" width="800" /></a><br/>
+<a href="https://youtu.be/BckX9Er7g6Q" target="_blank"><img src="20190830_016.jpg" alt="Youtube" width="900" /></a><br/>
 
 <font color="blue"><h3>料理</h3></font>
 <a href="20190830_007.jpg" data-lightbox="abc"><img src="20190830_007.jpg" alt="サンプル画像" width="300" /></a>
