@@ -208,6 +208,8 @@ E-mail Yuichi_Yoshimura@n.t.rd.honda.co.jp<br>
       <p>&#160;</p> <p>&#160;</p>
   <h3>
       <p>退職者リスト</p><br>
+<p><span class="blinking"><font color="blue">
+	滝澤 敏：60歳、2020年、定年退職予定</font></span></p><br>
 <p><span class="blinking"><font color="red">
 	半澤幸彦：60歳、2019年、定年退職</font></span></p><br>
       <p>渡辺正樹：60歳、2018年、定年退職</p><br>
