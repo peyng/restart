@@ -210,7 +210,7 @@ E-mail Yuichi_Yoshimura@n.t.rd.honda.co.jp<br>
       <p>退職者リスト</p><br>
 <p><span class="blinking"><font color="blue">
 	滝澤 敏：60歳、2020年、定年退職予定</font></span></p><br>
-<p><span class="blinking"><font color="red">
+<p><font color="red">
 	半澤幸彦：60歳、2019年、定年退職</font></span></p><br>
       <p>渡辺正樹：60歳、2018年、定年退職</p><br>
       <p><a href="https://peyng.github.io/restart/20110114_001.jpg" target="_blank" class="p">佐々木正美：2011年、51歳で転職 → テイ・エス テック？<span><img src="https://peyng.github.io/restart/20110114_001.jpg" alt="佐々木 送別会"></span></a><br><br>
