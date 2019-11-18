@@ -114,7 +114,7 @@ a.p:hover span {
 <a href="20190830_014.jpg" data-lightbox="abc"><img src="20190830_014.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190830_015.jpg" data-lightbox="abc"><img src="20190830_015.jpg" alt="サンプル画像" width="900" /></a>
 <font color="blue"><h2>動画, youtube リンク↓</h2></font>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BckX9Er7g6Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+<iframe width="840" height="473" src="https://www.youtube.com/embed/BckX9Er7g6Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
 
 <font color="blue"><h2>料理</h2></font>
 <a href="20190830_007.jpg" data-lightbox="abc"><img src="20190830_007.jpg" alt="サンプル画像" width="300" /></a>
