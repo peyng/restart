@@ -61,7 +61,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://peyng.github.io/restart/20190830_017.jpg) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://peyng.github.io/restart/20221005_006.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
   
