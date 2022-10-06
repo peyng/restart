@@ -100,8 +100,18 @@ a.p:hover span {
   より見やすくご覧頂けます。
 </p>
 	
-<h1><span class="yellow"><marquee behavior="left">!!! 2019年8月30日_半澤幸彦、退職記念@うず潮 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2022年10月5日_滝澤さん、松ちゃん、退職記念@目利きの銀次 !!!</marquee></span></h1>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<a href="20221005_001.JPG" data-lightbox="abc"><img src="20221005_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221005_002.JPG" data-lightbox="abc"><img src="20221005_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221005_003.JPG" data-lightbox="abc"><img src="20221005_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221005_004.JPG" data-lightbox="abc"><img src="20221005_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221005_005.JPG" data-lightbox="abc"><img src="20221005_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221005_006.JPG" data-lightbox="abc"><img src="20221005_006.JPG" alt="サンプル画像" width="900" /></a>
+
+<br><br><br>
+<h1><span class="yellow"><marquee behavior="left">!!! 2019年8月30日_半澤幸彦、退職記念@うず潮 !!!</marquee></span></h1>
 
 <a href="20190830_001.jpg" data-lightbox="abc"><img src="20190830_001.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190830_002.jpg" data-lightbox="abc"><img src="20190830_002.jpg" alt="サンプル画像" width="900" /></a>
