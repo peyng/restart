@@ -99,9 +99,21 @@ a.p:hover span {
   モバイル端末をお使いの場合は、画面を横向きにすると
   より見やすくご覧頂けます。
 </p>
-	
-<h1><span class="yellow"><marquee behavior="left">!!! 2022年10月5日_滝澤さん、松ちゃん、退職記念@目利きの銀次 !!!</marquee></span></h1>
+
+<h1><span class="yellow"><marquee behavior="left">!!! 2025年3月28日_久々の同期会@うず潮 !!!</marquee></span></h1>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<a href="20250328_001.JPG" target="_blank"><img src="20250328_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250328_002.JPG" target="_blank"><img src="20250328_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250328_003.JPG" target="_blank"><img src="20250328_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250328_004.JPG" target="_blank"><img src="20250328_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250328_005.JPG" target="_blank"><img src="20250328_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250328_006.JPG" target="_blank"><img src="20250328_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250328_007.JPG" target="_blank"><img src="20250328_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250328_008.JPG" target="_blank"><img src="20250328_008.JPG" alt="サンプル画像" width="900" /></a>
+
+<br><br><br><br><br><br><br><br><br>
+<h1><span class="yellow"><marquee behavior="left">!!! 2022年10月5日_滝澤さん、松ちゃん、退職記念@目利きの銀次 !!!</marquee></span></h1>
 
 <a href="20221005_001.JPG" data-lightbox="abc"><img src="20221005_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221005_002.JPG" data-lightbox="abc"><img src="20221005_002.JPG" alt="サンプル画像" width="900" /></a>
